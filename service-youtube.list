@@ -1,5 +1,5 @@
-DEST-PORT,25
-DEST-PORT,587
-DEST-PORT,465
-DEST-PORT,143
-DEST-PORT,993
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,YouTube*
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN,youtubei.googleapis.com
