@@ -1,0 +1,6 @@
+USER-AGENT,com.apple.geod*
+USER-AGENT,geod*
+USER-AGENT,locationd*
+PROCESS-NAME,com.apple.geod
+DOMAIN-SUFFIX,gs-loc.apple.com
+DOMAIN-SUFFIX,ls.apple.com

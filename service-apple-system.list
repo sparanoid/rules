@@ -1,0 +1,9 @@
+USER-AGENT,*com.apple.mobileme.fmip1
+USER-AGENT,*WeatherFoundation*
+USER-AGENT,FindMyFriends*
+USER-AGENT,FindMyiPhone*
+USER-AGENT,FMDClient*
+USER-AGENT,FMFD*
+USER-AGENT,fmflocatord*
+PROCESS-NAME,trustd
+DOMAIN-KEYWORD,apple.com
